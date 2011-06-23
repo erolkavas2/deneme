@@ -12,7 +12,6 @@
     }
 
     public static void RegisterRoutes(RouteCollection routes) {
-        //                    IMPORTANT: DATA MODEL REGISTRATION 
         // Uncomment this line to register a LINQ to SQL model for ASP.NET Dynamic Data.
         // Set ScaffoldAllTables = true only if you are sure that you want all tables in the
         // data model to support a scaffold (i.e. templates) view. To control scaffolding for
