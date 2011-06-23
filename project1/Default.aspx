@@ -11,6 +11,7 @@
     <br /><br />
     FURKAN BU YAZIYI FURKAN BRANCH I EKLEDI.
     bu da benden gelsin herkese selam
+    gfgfdbf gdfgfdgfd gfdgdf
     <asp:GridView ID="Menu1" runat="server" AutoGenerateColumns="false"
         CssClass="DDGridView" RowStyle-CssClass="td" HeaderStyle-CssClass="th" CellPadding="6">
         <Columns>
