@@ -9,7 +9,7 @@
     <h2 class="DDSubHeader">My tables</h2>
 
     <br /><br />
-
+    ben furkan. burasi benim.
     <asp:GridView ID="Menu1" runat="server" AutoGenerateColumns="false"
         CssClass="DDGridView" RowStyle-CssClass="td" HeaderStyle-CssClass="th" CellPadding="6">
         <Columns>
