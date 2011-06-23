@@ -10,7 +10,7 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <h1 class="DDMainHeader">Dynamic Data Site</h1>
+    <h1 class="DDMainHeader">Dynamic Data Site   HAVVA CENGİZ</h1>
     <div class="DDNavigation">
         <a runat="server" href="~/"><img alt="Back to home page" runat="server" src="DynamicData/Content/Images/back.gif" />Back to home page</a>
     </div>
